@@ -41,13 +41,13 @@ Ele foi desenvolvido como parte de prática de estudos em **desenvolvimento fron
 
 🌟 Funcionalidades
 
-    Estrutura de landing page responsiva
+   - Estrutura de landing page responsiva
 
-    Sessões destacando planos, dispositivos e recursos
+   - Sessões destacando planos, dispositivos e recursos
 
-    Rodapé com links úteis e informações legais
+   - Rodapé com links úteis e informações legais
 
-    Layout inspirado no serviço de streaming da Alura
+   - Layout inspirado no serviço de streaming da Alura
 
 ---
 
