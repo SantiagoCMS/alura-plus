@@ -14,10 +14,10 @@ Ele foi desenvolvido como parte de prática de estudos em **desenvolvimento fron
 
 ## 📂 Estrutura de pastas
 
-/
-├── index.html # Arquivo principal da página
-├── styles.css # Estilos da página
-└── img/ # Imagens utilizadas no projeto
+
+- index.html # Arquivo principal da página
+- styles.css # Estilos da página
+- img/ # Imagens utilizadas no projeto
 
 
 ---
