@@ -39,7 +39,7 @@ Ele foi desenvolvido como parte de prática de estudos em **desenvolvimento fron
     ```
 3. Abra o arquivo index.html no navegador.
 
-🌟 Funcionalidades
+## 🌟 Funcionalidades
 
    - Estrutura de landing page responsiva
 
